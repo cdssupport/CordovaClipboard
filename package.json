@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Clipboard management plugin for Cordova/PhoneGap that supports iOS, Android, and Windows Phone 8",
   "cordova": {
-    "id": "com.cordova.clipboard",
+    "id": "com.verso.cordova.clipboard",
     "platforms": [
       "ios",
       "android",
