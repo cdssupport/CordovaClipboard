@@ -1,0 +1,40 @@
+{
+  "name": "cordova-plugin-clipboard",
+  "version": "1.0.0",
+  "description": "Clipboard management plugin for Cordova/PhoneGap that supports iOS, Android, and Windows Phone 8",
+  "cordova": {
+    "id": "com.cordova.clipboard",
+    "platforms": [
+      "ios",
+      "android",
+      "wp8",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VersoSolutions/CordovaClipboard.git"
+  },
+  "keywords": [
+    "clipboard",
+    "copy",
+    "paste",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-wp8",
+    "cordova-windows"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=4.0.0"
+    }
+  ],
+  "author": "VersoSolutions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VersoSolutions/CordovaClipboard/issues"
+  },
+  "homepage": "https://github.com/VersoSolutions/CordovaClipboard"
+}
